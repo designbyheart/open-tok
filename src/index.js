@@ -4,6 +4,7 @@ import OTStreams from './OTStreams';
 import OTSubscriber from './OTSubscriber';
 import createSession from './createSession';
 import preloadScript from './preloadScript';
+import OT from '@opentok/client';
 
 export default {
   OTSession,
